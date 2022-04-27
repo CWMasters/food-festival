@@ -12,7 +12,7 @@ const FILES_TO_CACHE = [
   "./dist/app.bundle.js",
   "./dist/events.bundle.js",
   "./dist/tickets.bundle.js",
-  "./dist/schedule.bundle.js"
+  "./dist/schedule.bundle.js",
 ];
 
 // Respond with cached resources
